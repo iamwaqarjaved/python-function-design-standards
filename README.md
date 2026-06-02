@@ -139,7 +139,7 @@ This version is safer, reviewable, and easier to test.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/python-function-design-standards.git
+git clone https://github.com/iamwaqarjaved/python-function-design-standards.git
 cd python-function-design-standards
 
 # Optional: create a virtual environment
@@ -169,13 +169,6 @@ This guide is useful for:
 
 ---
 
-## Suggested GitHub description
-
-Use this as your repository description:
-
-> Engineering handbook for designing clean, testable Python functions in marketing analytics workflows.
-
----
 
 ## Suggested GitHub topics
 
