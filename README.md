@@ -169,13 +169,6 @@ This guide is useful for:
 
 ---
 
-
-## Suggested GitHub topics
-
-`python`, `analytics-engineering`, `marketing-analytics`, `data-engineering`, `clean-code`, `type-hints`, `docstrings`, `code-review`, `python-best-practices`, `software-engineering`
-
----
-
 ## Author
 
 Created by **Waqar Javed** as a practical engineering handbook for Python function design standards.
